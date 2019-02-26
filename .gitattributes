@@ -1,2 +1,12 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+.mp4 filter=lfs diff=lfs merge=lfs -text
+TetrisWorldChampionship/TWC.mp4 filter=lfs diff=lfs merge=lfs -text
+ filter=lfs diff=lfs merge=lfs -text
+TetrisWorldChampionship/TWC1.mp4 filter=lfs diff=lfs merge=lfs -text
+TetrisWorldChampionship/TWC2.mp4 filter=lfs diff=lfs merge=lfs -text
+TetrisWorldChampionship/TWC3.mp4 filter=lfs diff=lfs merge=lfs -text
+C:/Users/isabe/Documents/GitHub/TetrisVideoStorage/TetrisWorldChampionship/TWC3.mp4 filter=lfs diff=lfs merge=lfs -text
+C:/Users/isabe/Documents/GitHub/TetrisVideoStorage/TetrisWorldChampionship/TWC2.mp4 filter=lfs diff=lfs merge=lfs -text
+C:/Users/isabe/Documents/GitHub/TetrisVideoStorage/TetrisWorldChampionship/TWC1.mp4 filter=lfs diff=lfs merge=lfs -text
