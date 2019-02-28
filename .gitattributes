@@ -1,5 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.mp4 linguist-language=C#
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 .mp4 filter=lfs diff=lfs merge=lfs -text
 TetrisWorldChampionship/TWC.mp4 filter=lfs diff=lfs merge=lfs -text
